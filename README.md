@@ -1,6 +1,7 @@
 # Minesweeper
 
 A java swing implementation of minesweeper which I made 4 years ago. My first ever project :D
+
 I asked to review it at https://codereview.stackexchange.com/questions/215081/minesweeper-game-in-java-using-swing-gui#
 (Not great code, but the refactored one in the code-review link is great)
 
